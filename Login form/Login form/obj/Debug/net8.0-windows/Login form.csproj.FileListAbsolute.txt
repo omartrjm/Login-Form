@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\vsprojects\Login form\Login form\obj\Debug\net8.0-windows\Login_form.Form1.resources
+C:\Users\Admin\Desktop\vsprojects\Login form\Login form\obj\Debug\net8.0-windows\Login form.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\vsprojects\Login form\Login form\obj\Debug\net8.0-windows\Login form.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\vsprojects\Login form\Login form\obj\Debug\net8.0-windows\Login form.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\vsprojects\Login form\Login form\obj\Debug\net8.0-windows\Login form.AssemblyInfo.cs
+C:\Users\Admin\Desktop\vsprojects\Login form\Login form\obj\Debug\net8.0-windows\Login form.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\vsprojects\Login form\Login form\bin\Debug\net8.0-windows\Login form.exe
+C:\Users\Admin\Desktop\vsprojects\Login form\Login form\bin\Debug\net8.0-windows\Login form.deps.json
+C:\Users\Admin\Desktop\vsprojects\Login form\Login form\bin\Debug\net8.0-windows\Login form.runtimeconfig.json
+C:\Users\Admin\Desktop\vsprojects\Login form\Login form\bin\Debug\net8.0-windows\Login form.dll
+C:\Users\Admin\Desktop\vsprojects\Login form\Login form\bin\Debug\net8.0-windows\Login form.pdb
+C:\Users\Admin\Desktop\vsprojects\Login form\Login form\obj\Debug\net8.0-windows\Login form.dll
+C:\Users\Admin\Desktop\vsprojects\Login form\Login form\obj\Debug\net8.0-windows\refint\Login form.dll
+C:\Users\Admin\Desktop\vsprojects\Login form\Login form\obj\Debug\net8.0-windows\Login form.pdb
+C:\Users\Admin\Desktop\vsprojects\Login form\Login form\obj\Debug\net8.0-windows\Login form.genruntimeconfig.cache
+C:\Users\Admin\Desktop\vsprojects\Login form\Login form\obj\Debug\net8.0-windows\ref\Login form.dll
